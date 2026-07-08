@@ -19,7 +19,8 @@ This project analyzes sales performance, customer demographics, order status, re
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="./dashboard.png" alt="Vrinda Store Dashboard" width="100%">
+  <img src="https://github.com/user-attachments/assets/12fa4c32-b021-4186-9e45-4fb47b1a3866" />
+" alt="Vrinda Store Dashboard" width="100%">
 </p>
 ---
 
