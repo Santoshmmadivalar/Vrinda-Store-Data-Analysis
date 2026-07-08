@@ -19,10 +19,8 @@ This project analyzes sales performance, customer demographics, order status, re
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="VrindaStoreScreenshot.png" alt="Vrinda Store Dashboard" width="100%">
+  <img src="./dashboard.png" alt="Vrinda Store Dashboard" width="100%">
 </p>
-> **Note:** Replace `dashboard.png` with your dashboard screenshot after uploading it to this repository.
-
 ---
 
 # 🎯 Project Objectives
